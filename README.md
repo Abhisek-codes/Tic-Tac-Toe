@@ -35,9 +35,10 @@ The AI evaluates every possible outcome using the Minimax algorithm:
 Install:
 ```bash
 pip install PyQt5
-
+```
 ## 🚀 Run Locally
 
 ```bash
 
 python ui.py
+```
